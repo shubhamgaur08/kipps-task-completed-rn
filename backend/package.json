@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^2.0.0",
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "google-auth-library": "^9.14.1",
+    "googleapis": "^144.0.0",
+    "nodemon": "^3.1.7"
+  }
+}
